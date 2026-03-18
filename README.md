@@ -1,8 +1,7 @@
 # ESP32 Earthquake Detector
 
 ![Circuit Diagram](docs/circuit.png)
-
-ESP32-based earthquake detection system using an MPU6050 sensor, OLED display, LEDs, and a buzzer. The system detects vibrations and provides visual and audio alerts.
+Developed an ESP32-based earthquake detection system as part of an Internet of Things (IoT) course, utilizing an MPU6050 accelerometer with an OLED display, LEDs, and a buzzer to monitor vibrations and provide real-time visual and audio alerts for potential seismic activity.
 
 ---
 
